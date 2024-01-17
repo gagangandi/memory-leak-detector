@@ -1,0 +1,78 @@
+
+Node insertedprinting unfreed
+0x5642226852a0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x119f) [0x56422074119f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+
+Node insertedprinting unfreed
+0x5642226859f0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x119f) [0x56422074119f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+0x5642226859f0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x11b7) [0x5642207411b7]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+
+Node insertedprinting unfreed
+0x5642226859f0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x119f) [0x56422074119f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+0x5642226852a0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x11b7) [0x5642207411b7]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+0x5642226852a0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x11db) [0x5642207411db]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+
+Node insertedprinting unfreed
+0x5642226859f0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x119f) [0x56422074119f]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+0x5642226852a0 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x11b7) [0x5642207411b7]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+0x564222688560 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x11db) [0x5642207411db]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
+0x564222688560 is not freed with size 4
+/home/sathwika/memleak_last/libmymalloc.so(add_to_list+0x3f) [0x7f932f08d2b8]
+/home/sathwika/memleak_last/libmymalloc.so(my_malloc+0x31) [0x7f932f08d77b]
+./func(+0x11f3) [0x5642207411f3]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90) [0x7f932ee29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80) [0x7f932ee29e40]
+./func(+0x10ce) [0x5642207410ce]
